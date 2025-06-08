@@ -72,7 +72,7 @@ Each folder contains source code and, where applicable, sample input/output or e
 
 - 📅 **Semester:** MCA 2nd Semester
 - 🏫 **Institution:** MES College of Engineering, Kuttippuram
-- 👤 **Author:** [Your Name Here]
+- 👤 **Author:** [Nihal N]
 
 ---
 
