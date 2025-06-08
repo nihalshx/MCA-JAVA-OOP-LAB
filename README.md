@@ -1,7 +1,11 @@
-# 🚀 MCA-JAVA-OOP-LAB
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Lab-blue?style=for-the-badge" alt="java Lab Badge"/>
+  <img src="https://img.shields.io/badge/MCA-2nd%20Semester-green?style=for-the-badge" alt="MCA Badge"/>
+  <img src="https://img.shields.io/badge/MES%20College%20of%20Engineering-Kuttippuram-orange?style=for-the-badge" alt="MES Badge"/>
+</p>
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
-[![License: Educational](https://img.shields.io/badge/License-Educational-blue.svg?style=for-the-badge)](#)
+<h1 align="center">📚 MCA-JAVA-OOP-LAB🚀</h1>
+
 
 Welcome to the **MCA 2nd Semester OOP Lab Repository**! 👩‍💻👨‍💻
 
